@@ -163,7 +163,7 @@ export function Hero() {
           },
           {
             label: "Resume",
-            href: "https://drive.google.com/file/d/1IOVkp12mBcVedyKLgKH2K7F1kRPqDAW7/view?usp=sharing",
+            href: "https://drive.google.com/file/d/1qTF5HyDgOvAyPveGfaQxihhaS1gzjlgb/view?usp=sharing",
             icon: (
               <svg
                 xmlns="http://www.w3.org/2000/svg"
